@@ -1,9 +1,4 @@
-hfp-ldf
-nhb-xtnsht
-gznm-itcnm
-ctvm - djctvm
-один-два
-три-четыре
-gznm-itcnm
-ctvm-djctvm
+one-two
+three-four
+five-six
 
